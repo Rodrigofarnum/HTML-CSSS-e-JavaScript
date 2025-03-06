@@ -1,2 +1,2 @@
-# HTML-CSSS-e-JavaScript
+# HTML, CSSS e JavaScript
 Estudo Front-End
